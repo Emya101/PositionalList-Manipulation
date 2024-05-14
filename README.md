@@ -48,7 +48,7 @@ List with duplicates removed:
 Sorted characters using Insertion sort algorithm:
 [A, A, B, C, E, E, G, L, M, M, R, S]
 
-Emhenya Supreme 3132969
+Emhenya Supreme 
 Based on "Data Structures and Algorithms in Java, Sixth Edition" by Goodrich et al.
 
 
