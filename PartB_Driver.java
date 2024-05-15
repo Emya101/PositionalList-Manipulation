@@ -2,7 +2,7 @@
  * The PartB_Driver class contains a main method to test the methods defined in the ArrayPositionalList class.
  * It also includes methods to remove consecutive duplicates from a positional list and perform insertion sort on a list of characters.
  */
-public class PartB_Driver {
+public class ListDriver {
 
     /**
      * The main method initializes a positional list, adds elements to it, and tests the methods to remove consecutive duplicates
